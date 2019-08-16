@@ -1,0 +1,6 @@
+#Insert a value start of elo
+startELO: 1000
+#Insert a range for the elo 
+EloRangeRandom: 10
+#Insert a value for view max player for topelo 
+EloView: 10

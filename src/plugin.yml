@@ -1,0 +1,9 @@
+name: EloPlugin
+version: 1.0
+main: eu.moneypvp.Main
+author: zMoneyPvP
+commands:
+  elo:
+  topelo:
+  eloadmin:
+  
